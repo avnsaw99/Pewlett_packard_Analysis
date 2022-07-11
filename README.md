@@ -21,3 +21,6 @@ Mentorship Eligibility
 ![image](https://user-images.githubusercontent.com/15044088/178335141-1b965fb3-2f47-49a8-8728-bc13bd9b9b06.png)
 
 
+# Problems
+
+Due to my lack of exposure to SQL, I was struggling a lot to finish this module. It took me a lot longer than normal even for simple things such as importing the CSVs. Since SQL places such a high value on accuracy and is a static language, this definitely was a struggle. I think more than anything completing the Module Assignment was tough. However, I am confident that I will make a solid recovery.
